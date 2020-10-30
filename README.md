@@ -1,9 +1,16 @@
-### Hi there! 😄
+### Hi there! Milap Anwani here 😄
 
 - 🌱 I’m a sophomore at IIIT Allahabad.
 - 👯 I’m looking to collaborate on flutter projects.
+- 👀 Currently in the "learner mode". 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=greenblade29&show_icons=true&theme=dark)](https://github.com/greenblade29)
 
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenblade29&layout=compact&theme=dark)](https://github.com/greenblade29)
+
+<br />
 
 ### Want to connect? Catch me here :
 
@@ -18,12 +25,3 @@
 [1]: https://twitter.com/greenblade29
 [2]: https://www.facebook.com/milap.anwani.5/
 [3]: https://www.linkedin.com/in/milap-anwani-2b732b1aa/
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=greenblade29&show_icons=true&theme=dark)](https://github.com/greenblade29)
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenblade29&layout=compact&theme=dark)](https://github.com/greenblade29)
-
-
