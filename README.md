@@ -2,7 +2,6 @@
 
 - 🌱 I’m a sophomore at IIIT Allahabad.
 - 👯 I’m looking to collaborate on flutter projects.
-- 📫 How to reach me: https://www.linkedin.com/in/milap-anwani-2b732b1aa/
 
 
 
@@ -25,6 +24,6 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenblade29&layout=compact)](https://github.com/greenblade29)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenblade29&layout=compact&theme=dark)](https://github.com/greenblade29)
 
 
