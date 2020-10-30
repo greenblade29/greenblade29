@@ -10,8 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenblade29&layout=compact&theme=dark)](https://github.com/greenblade29)
 
-<br />
-
 ### Want to connect? Catch me here :
 
 [![alt text][1.1]][1]
