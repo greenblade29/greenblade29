@@ -1,4 +1,4 @@
-![alt tag](https://user-images.githubusercontent.com/57544033/97967394-2aeeb200-1de3-11eb-9722-ffbc8c9bb841.jpg)
+![alt tag](https://user-images.githubusercontent.com/57544033/105194996-26bf6e80-5b60-11eb-9c3b-8962056e9152.jpg)
 
 
 ### Hi there! Milap Anwani here 😄
