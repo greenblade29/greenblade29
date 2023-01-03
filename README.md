@@ -1,10 +1,8 @@
-![alt tag](https://user-images.githubusercontent.com/57544033/105194996-26bf6e80-5b60-11eb-9c3b-8962056e9152.jpg)
-
 
 ### Hi there! Milap Anwani here 😄
 
-- 🌱 I’m a sophomore at IIIT Allahabad.
-- 👯 I’m looking to collaborate on front-end projects.
+- 🌱 I’m a final year student at IIIT Allahabad.
+- 👯 Always looking for new open source projects to work on.
 - 👀 Currently in the "learner mode". 
 
 ### Languages and Tools:
