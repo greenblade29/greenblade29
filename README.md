@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 I am currently working at Postman as a Software Engineer.<br>🔨 The tech stack that I currently use includes React, Node.js<br>💡 Always in the learner mode
+👨🏻‍💻 I am currently working at Booking.com as a Site Reliability Engineer.<br>🔨 The tech stack that I currently use includes AWS, Puppet, Terraform, Kubernetes and Golang.js<br>💡 Always in the learner mode
 
 
 ## 🌐 Socials:
